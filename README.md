@@ -1,4 +1,4 @@
-![VesselNormalization](images/Word Art.png)
+![VesselNormalization](images/WordArt.png)
 
 I'm **Lin Tian**, a post-doctoral researcher studying cancer biology.
 
